@@ -12,20 +12,12 @@
         "Thorium Reaction"
     ],
     [
-        "Drying",
-        "Drying"
-    ],
-    [
         "PowerGeneration",
         "Power Generation"
     ],
     [
         "Automatization",
         "Automatization"
-    ],
-    [
-        "AdditionalStorage",
-        "Additional Storage"
     ],
     [
         "HeatTransferring",
@@ -40,20 +32,12 @@
         "Fluid Storage"
     ],
     [
-        "FluidDumping",
-        "Fluid Dumping"
-    ],
-    [
         "SingleTypeStorage",
         "Single Type Storage"
     ],
     [
         "DistributedComputing",
         "Distributed Computing"
-    ],
-    [
-        "Electrolysis",
-        "Electrolysis"
     ],
     [
         "Sign",
@@ -76,14 +60,6 @@
         "Metal Constructions"
     ],
     [
-        "Chemistry",
-        "Chemistry"
-    ],
-    [
-        "MassivePowerGeneration",
-        "Massive Power Generation"
-    ],
-    [
         "AdvancedSmelting",
         "Advanced Smelting"
     ],
@@ -94,10 +70,6 @@
     [
         "Fermentation",
         "Fermentation"
-    ],
-    [
-        "AdvancedSeparation",
-        "Advanced Separation"
     ],
     [
         "NeutroniumProduction",
@@ -116,14 +88,6 @@
         "Titanium Production"
     ],
     [
-        "HardMetalProduction",
-        "Hard Metal Production"
-    ],
-    [
-        "InitialScan",
-        "Initial Scan"
-    ],
-    [
         "MineralsScan",
         "Minerals Scan"
     ],
@@ -140,34 +104,6 @@
         "Metalwork"
     ],
     [
-        "Filtering",
-        "Filtering"
-    ],
-    [
-        "DecorativeWood",
-        "Decorative Wood"
-    ],
-    [
-        "DecorativePlastic",
-        "Decorative Plastic"
-    ],
-    [
-        "DecorativeStone",
-        "Decorative Stone"
-    ],
-    [
-        "DecorativeConcrete",
-        "Decorative Concrete"
-    ],
-    [
-        "DecorationClay",
-        "Decoration Clay"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
-    ],
-    [
         "AdvancedReflection",
         "Advanced Reflection"
     ],
@@ -182,5 +118,37 @@
     [
         "FuelChemistry2",
         "Fuel Chemistry II"
+    ],
+    [
+        "SulfurSynthesis",
+        "Sulfur Synthesis"
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        "Sulfuric Acid Synthesis"
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        "Precise Temperature Pyrolysis"
+    ],
+    [
+        "SteamPyrolysis",
+        "Steam Pyrolysis"
+    ],
+    [
+        "KrollProcess",
+        "Kroll Process"
+    ],
+    [
+        "AluminiumReduction",
+        "Aluminium Reduction"
+    ],
+    [
+        "AdvancedAlloys",
+        "Advanced Alloys"
+    ],
+    [
+        "LithiumBattery",
+        "Lithium Battery"
     ]
 ]

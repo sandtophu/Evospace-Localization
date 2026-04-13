@@ -214,5 +214,37 @@
     [
         "FuelChemistry2",
         "Fuel Chemistry II"
+    ],
+    [
+        "SulfurSynthesis",
+        "Sulfur Synthesis"
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        "Sulfuric Acid Synthesis"
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        "Precise Temperature Pyrolysis"
+    ],
+    [
+        "SteamPyrolysis",
+        "Steam Pyrolysis"
+    ],
+    [
+        "KrollProcess",
+        "Kroll Process"
+    ],
+    [
+        "AluminiumReduction",
+        "Aluminium Reduction"
+    ],
+    [
+        "AdvancedAlloys",
+        "Advanced Alloys"
+    ],
+    [
+        "LithiumBattery",
+        "Lithium Battery"
     ]
 ]

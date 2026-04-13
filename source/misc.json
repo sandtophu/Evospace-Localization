@@ -164,14 +164,6 @@
         "Danger Block"
     ],
     [
-        "RustyCopperCasing",
-        "Rusty Copper Casing"
-    ],
-    [
-        "RustyIronCasing",
-        "Rusty Iron Casing"
-    ],
-    [
         "BasicPlatform",
         "Basic Platform"
     ],
@@ -252,10 +244,6 @@
         "Flueted Column"
     ],
     [
-        "Torch",
-        "Torch"
-    ],
-    [
         "Flashlight",
         "Flashlight"
     ],
@@ -294,9 +282,5 @@
     [
         "AntigravityUnit",
         "Antigravity Unit"
-    ],
-    [
-        "Scanner",
-        "Scanner"
     ]
 ]

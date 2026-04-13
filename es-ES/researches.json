@@ -198,5 +198,37 @@
     [
         "FuelChemistry2",
         "Química de los combustibles II"
+    ],
+    [
+        "SulfurSynthesis",
+        "Síntesis del azufre"
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        "Síntesis del ácido sulfúrico"
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        "Pirólisis a temperatura precisa"
+    ],
+    [
+        "SteamPyrolysis",
+        "Pirólisis de vapor"
+    ],
+    [
+        "KrollProcess",
+        "Proceso Kroll"
+    ],
+    [
+        "AluminiumReduction",
+        "Reducción de aluminio"
+    ],
+    [
+        "AdvancedAlloys",
+        "Aluminio de reducción"
+    ],
+    [
+        "LithiumBattery",
+        "Batería de litio"
     ]
 ]

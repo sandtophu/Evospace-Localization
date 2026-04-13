@@ -202,5 +202,37 @@
     [
         "FuelChemistry2",
         "Fejlett üzemanyag finomítás"
+    ],
+    [
+        "SulfurSynthesis",
+        "Sulfur Synthesis"
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        "Sulfuric Acid Synthesis"
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        "Precise Temperature Pyrolysis"
+    ],
+    [
+        "SteamPyrolysis",
+        "Steam Pyrolysis"
+    ],
+    [
+        "KrollProcess",
+        "Kroll Process"
+    ],
+    [
+        "AluminiumReduction",
+        "Aluminium Reduction"
+    ],
+    [
+        "AdvancedAlloys",
+        "Advanced Alloys"
+    ],
+    [
+        "LithiumBattery",
+        "Lithium Battery"
     ]
 ]

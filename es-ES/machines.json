@@ -429,18 +429,70 @@
     ],
     [
         "BiElectricEngine",
-        "Bi-Directional Electric Engine"
+        "Motor eléctrico bidireccional"
     ],
     [
         "SmallSolarPanel",
-        "Small Solar Panel"
+        "Pequeño panel solar"
     ],
     [
         "CableBundle",
-        "Cable Bundle"
+        "Paquete de cables"
     ],
     [
         "Rails",
-        "Rails"
+        "Raíles"
+    ],
+    [
+        "Destroyer",
+        "Destroyer"
+    ],
+    [
+        "PlasmaPipe",
+        "Plasma Pipe"
+    ],
+    [
+        "TransformerLVMV",
+        "Transformer (LV -> MV)"
+    ],
+    [
+        "TransformerMVLV",
+        "Transformer (MV -> LV)"
+    ],
+    [
+        "CopperConnector",
+        "Copper Cable"
+    ],
+    [
+        "OFCCable",
+        "Oxygen Free Copper Cable"
+    ],
+    [
+        "GCable",
+        "Gold Cable"
+    ],
+    [
+        "CNCable",
+        "Copper Nickel Cable"
+    ],
+    [
+        "YBCOCable",
+        "Yttrium Barium Copper Oxide Cable"
+    ],
+    [
+        "PCable",
+        "Platinum Cable"
+    ],
+    [
+        "TNCable",
+        "Tantalum Niobium Cable"
+    ],
+    [
+        "ABCCOCable",
+        "Arsenic Barium Calcium Copper Oxide Cable"
+    ],
+    [
+        "SteamEngine",
+        "Steam Engine"
     ]
 ]
